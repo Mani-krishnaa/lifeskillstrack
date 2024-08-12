@@ -1,6 +1,3 @@
-Here's how you can structure the content into a Markdown file:
-
-```markdown
 # Learning Process
 
 ## Question 1: What is the Feynman Technique?
@@ -34,5 +31,3 @@ Barbara and her husband turned their home basement into a makeshift recording st
 - Personalize and enjoy the learning process.
 - Aim for proficiency in a few key skills rather than mastering everything.
 ```
-
-You can save this content as `learning_process.md`.
